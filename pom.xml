@@ -13,7 +13,7 @@
 	<groupId>com.mcn</groupId>
 
 	<artifactId>scottish-power-tech-task</artifactId>
-	<version>0.1.0-SNAPSHOT</version>
+	<version>0.1.1-SNAPSHOT</version>
 	<name>Scottish Power Tech Task</name>
 
 	<properties>
