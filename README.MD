@@ -34,6 +34,8 @@ The integration test setup has been done using junit-platform-suite, which is no
 The tests wil be triggered as part of the Maven build, but it's possible to also run them directly using class `RunCucumberIT` from 
 within your IDE.
 
+The integration tests have now been updated to use a PostgreSQL TestContainer.
+
 ## Running the app
 
 The app is a standard Spring boot project, therefore running the build step above will create a runnable artifact, located at 
