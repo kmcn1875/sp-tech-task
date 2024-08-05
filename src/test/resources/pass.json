@@ -1,0 +1,46 @@
+{
+  "formatVersion": 1,
+  "serialNumber": null,
+  "passTypeIdentifier": null,
+  "webServiceURL": null,
+  "authenticationToken": null,
+  "description": null,
+  "teamIdentifier": null,
+  "organizationName": null,
+  "logoText": null,
+  "foregroundColor": "#101010",
+  "backgroundColor": "#FAFAFA",
+  "labelColor": null,
+  "groupingIdentifier": null,
+  "beacons": [],
+  "locations": [],
+  "barcodes": [
+    {
+      "format": "PKBarcodeFormatCode128",
+      "altText": "86546561",
+      "message": "86546561",
+      "messageEncoding": null
+    }
+  ],
+  "eventTicket": null,
+  "coupon": null,
+  "storeCard": null,
+  "boardingPass": null,
+  "generic": {
+    "headerFields": [],
+    "primaryFields": [],
+    "secondaryFields": [],
+    "auxiliaryFields": [],
+    "backFields": []
+  },
+  "appLaunchURL": "http://localhost:8080/",
+  "associatedStoreIdentifiers": [],
+  "associatedApps": [],
+  "userInfo": null,
+  "maxDistance": null,
+  "relevantDate": null,
+  "expirationDate": null,
+  "voided": false,
+  "nfc": null,
+  "sharingProhibited": false
+}
