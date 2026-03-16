@@ -1,0 +1,4 @@
+{
+	"token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJtZUBtYWlsLmNvbSIsImlhdCI6MTc3MzU5MTY5NywiZXhwIjoxNzczNTk1Mjk3fQ.bZYZp95dyQ5f5TL_5asFuFGcqCdG2A90ihqtV3q5gHI",
+	"expiresIn": 3600000
+}
